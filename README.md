@@ -1,4 +1,8 @@
-# my_notes_with_firebase_mvvm
+# my_notes
+# push notification 
+# google auth
+# crud
+# MVVM
 
 A new Flutter project.
 
@@ -6,7 +10,15 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+  Hey!!! this application achived a basic crud operation with a simple note app 
+  so we can add update get and delete a note with a simple way.
+  and also track this not and store globally with help of firebase
+  
+  This app i added a feature push notification its take a pop up message on our home screen . this mesage sented with admin side
+  
+  I followed model view viewModel folder architecture. its holding more security comparing with model view controller.
+  
+  
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
